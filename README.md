@@ -2,7 +2,7 @@
 
 <details>
   <summary>
-    :globe_with_meridians:&nbsp;<strong>Sites developed an maintained by me</strong>
+    :globe_with_meridians:&nbsp;<strong>Websites</strong>
   </summary><br />
 
   <details>
@@ -87,6 +87,7 @@
   </details>
 </details>
 <br />
+
 <details>
   <summary>
     :robot:&nbsp;<strong>Telegram bots</strong>
@@ -127,5 +128,18 @@
       <img src="https://img.icons8.com/color/24/000000/python.png"/>&nbsp;
       <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/89_Digital_Ocean-512.png" width="24px" />
   </details>
+
+</details>
+<br />
+<details>
+  <summary>
+    :page_with_curl:&nbsp;<strong>Recent blog posts</strong>
+  </summary><br />
+
+  :point_right:&nbsp;<a href="https://codedisciples.in/datetime.html" target="_blank">Working with date and time in Python</a>
+  :point_right:&nbsp;<a href="https://codedisciples.in/travis-digitalocean.html" target="_blank">Continuous Deployment with Travis CI and DigitalOcean</a>
+  :point_right:&nbsp;<a href="https://codedisciples.in/react-deployment.html" target="_blank">Deploying a React application on a Linux server</a>
+  :point_right:&nbsp;<a href="https://codedisciples.in/travis-postgres.html" target="_blank">Using a PostgreSQL database with Travis CI</a>
+  :point_right:&nbsp;<a href="https://codedisciples.in/itertools.html" target="_blank">Itertools</a>
 
 </details>
